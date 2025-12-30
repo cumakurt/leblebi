@@ -213,7 +213,6 @@ Examples:
 
 A complete example HTML report is available in the repository:
 
-📄 **[View Sample Report](sample_report.html)** - Complete example of Leblebi security report output
 
 This sample report demonstrates all features including:
 - Executive summary with risk scoring
@@ -223,7 +222,6 @@ This sample report demonstrates all features including:
 - Agent health monitoring
 - Security recommendations
 
-You can open `sample_report.html` in any web browser to see the full report structure and styling.
 
 ### API Features (Optional)
 
@@ -545,7 +543,6 @@ python3 leblebi.py --alerts-file /path/to/alerts.json
 
 Depoda tam bir örnek HTML rapor mevcuttur:
 
-📄 **[Örnek Raporu Görüntüle](sample_report.html)** - Leblebi güvenlik raporu çıktısının tam örneği
 
 Bu örnek rapor tüm özellikleri gösterir:
 - Risk skorlaması ile yönetici özeti
@@ -555,7 +552,6 @@ Bu örnek rapor tüm özellikleri gösterir:
 - Ajan sağlık izleme
 - Güvenlik önerileri
 
-`sample_report.html` dosyasını herhangi bir web tarayıcısında açarak tam rapor yapısını ve stilini görebilirsiniz.
 
 ### API Özellikleri (Opsiyonel)
 
